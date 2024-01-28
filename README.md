@@ -2,11 +2,10 @@
 
 Hi everyone :)
 
-I am a former [Bohemia Interactive](https://www.bohemia.net) senior programmer responsible for the Arma series where I did mostly work on behind-the-scenes low-level systems, optimization, networking and security. Before that I used to work as an integrator of various business-level security devices into a custom integrated security system SBI at [CGC a.s](https://cgc.sk).
+I am a former senior programmer at [Bohemia Interactive](https://www.bohemia.net/), where I was responsible for the Arma series. My main focus was on behind-the-scenes and low-level systems, optimization, networking and security. Prior to that, I worked at [CGC a.s](https://cgc.sk/) as an integrator of various business-level security devices into a custom integrated security system SBI.
 
-I am also the author of [Gaia-ECS](https://github.com/richardbiely/gaia-ecs), a powerful entity component system written in C++. You can use the framework to elevate any kind of project, be it games or business applications. Scope or size do not really matter.
-The project is build with the idea in mind to provide you with a framework that can help you realise your ideas in a simple and streamlined way. At the same time, it aims to keep your project easy to maintain while keeping its performance in check. You can also use it as a great learning experience.
+I am also the author of [Gaia-ECS](https://github.com/richardbiely/gaia-ecs), a powerful entity component system written in C++. This framework can be used to elevate any project, big or small, in the gaming or business applications industry. Built on the principles of data-oriented designed, Gaia-ECS aims to provide a simple and streamlined framework that allows you to realise your ideas while keeping your projects easy to maintain and performant. You can also use it as a great learning experience.
 
-At some point I grow fond of voxels which resulted in creation of [Voxe(lmetric)](https://github.com/richardbiely/Voxelmetric) and a few more currently private projects.
+At some point, I become interested in voxel, which led me to create [Voxe(lmetric)](https://github.com/richardbiely/Voxelmetric) and a few more currently private projects.
 
-Thank you everybody who decided to support the projects and their community. Any help or advice is greatly appreciated and can influence their future. You rock!
+I would like to thank everybody who decided to support my projects and their communities. Your help or advice are greatly appreciated and can influence their future. You rock!
